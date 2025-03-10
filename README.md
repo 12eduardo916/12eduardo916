@@ -900,4 +900,6 @@ int main()
 	interception_destroy_context(context);
 
 	return 0;
-}
+}dpi1400=1200
+free fire
+Taxa de tira na cabeça 100%
