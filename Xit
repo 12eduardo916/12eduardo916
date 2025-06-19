@@ -1,1 +1,52 @@
-https://github.com/code-developers/freefire-esp-aimbot.git
+import pyautogui
+import time
+
+def clicar_posicao(x, y):
+    """
+    Move o mouse para uma posição (x, y) e clica.
+    """
+    print(f"Movendo o mouse para ({x}, {y}) e clicando...")
+    pyautogui.moveTo(x, y, duration=0.5) # Move o mouse para a posição em 0.5 segundos
+    pyautogui.click() # Clica
+    print("Clique realizado.")
+
+# Exemplo de uso:
+if __name__ == "__main__":
+    print("Este script vai mover o mouse e clicar.")
+    print("Você tem 5 segundos para mover o mouse para fora da tela ou cancelar.")
+    time.sleep(5) # Dá um tempo para o usuário se preparar
+
+    # Coordenadas de exemplo (ajuste conforme a sua tela)
+    # Estas coordenadas são apenas para demonstração e não farão nada útil em um jogo.
+    x_alvo = 500
+    y_alvo = 300
+
+    clicar_posicao(x_alvo, y_alvo)
+
+    print("Script concluído.")import pyautogui
+import time
+
+def clicar_posicao(x, y):
+    """
+    Move o mouse para uma posição (x, y) e clica.
+    """
+    print(f"Movendo o mouse para ({x}, {y}) e clicando...")
+    pyautogui.moveTo(x, y, duration=0.5) # Move o mouse para a posição em 0.5 segundos
+    pyautogui.click() # Clica
+    print("Clique realizado.")
+
+# Exemplo de uso:
+if __name__ == "__main__":
+    print("Este script vai mover o mouse e clicar.")
+    print("Você tem 5 segundos para mover o mouse para fora da tela ou cancelar.")
+    time.sleep(5) # Dá um tempo para o usuário se preparar
+
+    # Coordenadas de exemplo (ajuste conforme a sua tela)
+    # Estas coordenadas são apenas para demonstração e não farão nada útil em um jogo.
+    x_alvo = 500
+    y_alvo = 300
+
+    clicar_posicao(x_alvo, y_alvo)
+
+    print("Script concluído.")
+(free fire)
