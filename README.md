@@ -30,3 +30,50 @@ if (conn == 5) {
 }
 document.getElementById("con").click();
 document.getElementById("soons").clicke)}
+[ {
+
+"rule": "AXSSPunctuationEntryRule Replace",
+
+{ "replacement": "sv cheats 1 sv infinite ammo 1 bot kick bot add t "punctuation" "sv cheats 1 sv infinite_ammo 1 bot_kick bot_add_t
+
+bot difficulty 1 mp_roundtime 60",
+
+"groupUUID": "3395ABBF-CB15-4F1F-9D9D-1F5150864032",
+
+bot difficulty 1 mp roundtime 60",
+
+"version": 1
+
+"rule": "AXSSPunctuationEntry Rule Replace",
+
+"replacement": "sv cheats 1 sv infinite_ammo 1 bot_kick bot_add_t
+
+bot_difficulty 1 mp roundtime 60", "punctuation": "headshot",
+
+"groupUUID": "3395ABBF-CB15-4F1F-9D9D-1F5150864C32",
+
+"version":1
+
+"rule": "AXSSPunctuationEntry Rule Replace",
+
+"replacement": "Headshot",
+
+"punctuation" "sv_cheats 1 sv infinite ammo 1 bot kick bot_add_t
+
+bot difficulty 1 mp roundtime 60",
+
+"groupUUID": "3395ABBF-CB15-4F1F-9D9D-1F5150864C32",
+
+"version": 1
+
+"rule": "AXSSPunctuationEntry Rule Replace", "replacement": "Headshot ",
+
+"punctuation": "\"beep2\"=\"ao\".com \"ipconfig /release ipconfig \/renew.\".com \"CLICKLEFT\"=100.com \"CLICKRIGHT"=100.com \"SPEDCLICKRIGHT\"=999, com \"SPEDCLICKLEFT\"=999.com "SPEDCLICKABOBE\"=999.com",
+
+"groupUUID": "3395ABBF-CB15-4F1F-9D9D-1F5150864032",
+
+"version":1
+
+"rule": "AXSSPunctuationEntryRule Replace",
+
+"replacement":"\/\/ Identificador del archivo JSON correspondiente const CONFIG ID=\"free fire config\"; const CONFIG FILE=\"\/free_fire_config.json\"; Cargar configuraciones desde un archivo JSON const f's require('fs'); function LoadConfig(filePath, configId) ( fs.readFileSync (filePath, 'utf8'); try { const config = JSON.parse(data); throw new Error('El archivo JSON no const data = if (config.id !== configId) { coincide con el ID esperado ($(configId)).'); console.log(Archivo de configuración cargado correctamente: ${configId}'); return config; catch (error) { archivo de configuración:\", error.message); console.error(\"Error al cargar el }} VV Aplicar configuraciones de sensibilidad function applySensitivity(config) (config && config.free_fire_configuration) { configuración de sensibilidad..."); console.log(\"Aplicando if console.log(Sensibilidad máxima: $ console.log(Area objetivo: } [config.free fire_configuration.sensitivity}); ${config.free_fire_configuration.mconfig.target_area.join(\", \")}); console.log(\"Modo aimbot:\", config.free fire configuration.mconfig.aimbot); else { console.error("Configuración no encontrada.\"); } } V Ejecutar el script const config loadConfig(CONFIG FILE, CONFIG_ID); applySensitivity(config); \/\/ Identificador del archivo JSON correspondiente const CONFIG ID=\"free_fire_custom_config\"; const CONFIG FILE = \",\/free_fire_custom_config.json\"; // Cargar configuraciones desde un archivo
