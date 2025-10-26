@@ -1,4 +1,4 @@
-(enemyLayer) (crosshair)
+5152624422 (free fire)(enemyLayer) (crosshair)
 (RayCast ou Area)public const Head = 99%; // 0xFA"); public const Head8x = 99%; // 0xF5"); public
 const Head8x = 99%; // 6x-4"); public const Head8x = 99%; // 8XFF"); public const
 HeadAwm = 99%; // 0xD3"); ent_fire picker_head addoutput "ModelScale 99\"");
