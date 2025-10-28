@@ -1,0 +1,122 @@
+
+comando free fire max: com.dts.freefiremax.FFMainActivity
+comando free fire original: com.dts.freefireth.FFMainActivity
+Valor del comando: copiar todo
+[HKEY_LOCAL_MACHINE\SOFTWARE\com.dts.freefireth.FFMainActivity\sensibility]
+"ToConnect"="[com.dts.freefireth.FFMainActivity\\Control Panel\\Mouse]"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Bluestacks\Guests\Android\sensibility\@].
+"ActiveUser"="YUTUBEJCVEGA"
+"sensibility"=dword:00000064
+"SMALLESTWIDTH"=dword:00000114
+"speedofmovement"=dword:00000064
+"touchsensitivyty"=dword:00000189
+"x"=dword:00000686
+"Y"=dword:00000114
+"CPU"=dword:00000064
+"GPU"=dword:00000064
+"DPI"=dword:0000eofo
+"generalemulatorsensitivity"=dword:00000064
+"joystick"=dword:00000306
+"Foy"="20000"
+"LEFTCLICK"=dword:000003ев
+"RIGHTCLICK"=dword:00000368
+"rightclicklifter"=dword:00000368
+"sensitivity"=dword:00000064
+"touchsensitivity"=dword:000000e1
+"MouseSensitivity"="6"
+"Mousespeed"="e"
+"AimAssist"=dword:000003el
+"AimBot"=dword:00009368
+"AinFov"=dword:00000368
+"Headshot"=dword:00000366
+"AimLock"=dword:000003ев
+"AutoHeadshot"=dword:өөөөөзев
+"Aimbot Speed"=dword:00000368
+"AimSpeed"=dword:00000368
+"FovAutoHeadshot"=dword:00000368
+"AimHead"=dword:00000368
+"AimHeadRightclickLifter"=dword:000везев
+"AimHeadshot"=dword:00000368
+"Aimbot HeadLeftClickLifter"=dword:09060зев
+"AimbotHeadshot"=dword:00000366
+"FovHead"=dword:00000368
+"ActiveUser"="YUTUBEJCVEGA"
+@=hex:
+"ActivewindowTracking"=dword:66008091
+"Beep"="No"
+"DoubleClickHeight"="w"
+"DoubleClickSpeed2"=" d蚝"
+"Doubleclickwidth"="#""Mousetrai is"=""
+"SnapToDefaultButton"=""
+"SwapMouseButtons"="e"
+"TopWindowSize"=dword:0005ae4c
+"TopNoDelay"=hex(b):7f,14,00,00,00,00,00,00
+"TCPDelAckTicks"=dword:00000005
+"Tcp13230pts"=dword:00000003
+"TopMaxDataRetransmissions"=dword:00000003
+"Sackopts"=dword:00000001
+"DefaultTTL"=dword:00007fff
+"Beep2"="No"
+"EnablePMTUDiscovery"=dword:00000001
+"DoubleClickSpeed"=""
+"EnablePMTUBHDetect"=dword:00006601
+"MouseHoverHeight"="100"
+"MouseHoverwidth"="100"
+"MouseCP"="55"
+"MouseCL"="25"
+"Mousecrib"="11"
+"Mousecontrolusb"="1"
+"MouseTK"="710"
+"MouseGrab"="888"
+"MouseStickon"="11"
+"DockTargetMouseDragOutWidth"="20"
+"DockTargetMouseSideMovewidth"="20"
+"DockTargetMousewidth"="20"
+"DockTargetPenDragoutwidth"="20"
+"DockTargetPensideMovewidth"="15"
+"DoubleClickHeight2"="蟹想她"
+"DockTargetPerwidth"="20"
+"MouseTrack"="710"
+"ToConnect"="[com.dts.freefireth.FFMainActivity\\Android\\"
+"ExtendedSounds2"="No"
+"HKEY_LOCAL_MACHINE\\SOFTWARE\\BlueStacks_msi2\\Guests\\Android\\sensibility\\0"="yes"
+"Delay"="5"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,ae,le,05,00,00,00,00,00,50,3d,
+da,00,00,00,00,00,0a,5c,of,00,00,00,00,00,ba,7a,14,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,00,00,38,00,00,00,00,00,00,00,
+7f,00,00,00,00,00,00,00,a8,00,00,00,00,00,05,00,00,00,00,00,00,00
+"Activeuser"="YUTUBEJCVEGA"
+"X2"=""
+"Y2"=""
+"X3"="A"
+"Y3"=""
+"X4"="0"
+"X5"="0"
+"Y4"="2"
+"Y5"="2"
+"X6"="2"
+"Y6"="2"
+"Aim assist"="yes"
+"Aim assist2"="yes""Mouse Lock"=" 496826171875.00 458090365234375,00"
+"Mouse Lockx"="队培覆"
+"Mouse LockX2"="昌/
+"Mouse Locky"=""
+"Mouse LockY2"="耀”
+"Aim Bot2"="yes"
+"Aim Head"=hex:58, 34, 37, 20, 37, 35, 36, 30, 59, 35, 31, 20, 37, 35, 30, 30
+[[com.dts.freefireth.FFMainActivity\Android\sensibility\1]
+"瞄準輔助"="鬧磺苦鐵證攝。楠响攝攝錄졈戲權暨培權高辦要繡高更底檔”
+"爆頭"=hex:39, 32, 31, 38, 38, 36, 38, 34, 33, 37, 32, 32, 37, 34, 30, 35, 33, 31, 32
+"史詩般的頭像"=hex:39, 32, 31, 38, 38, 36, 38, 34, 33, 37, 32, 32, 37, 34, 30, 35, 33, 31, 32
+"Activeuser"="YUTUBEJCVEGA"
+"x"="A"
+"X2"=""
+"X3"="A"
+"x4"="0"
+"x5"="0"
+"X6"="2"
+"Y2"=""
+"Y4"=""
+"45"="2"
+"YO"="2"
